@@ -1,60 +1,72 @@
 ﻿Count,Groups,Year,Type
 992,Pediatric Specialties,2019,Patient
 848,Pediatric Specialties,2021,Patient
-4832,Internal Medicine,2022,Patient
+5232,Internal Medicine,2022,Patient
 6948,Internal Medicine,2018,Patient
 2782,Behaviorial Health,2020,Patient
-10774,Pedatrics,2022,Patient
+12530,Pedatrics,2022,Patient
 2027,Behaviorial Health,2018,Patient
 3795,Dental,2018,Patient
 2796,Behaviorial Health,2019,Patient
 4832,Dental,2019,Patient
 6958,Internal Medicine,2019,Patient
 7827,Internal Medicine,2020,Patient
-7636,Family Medicine,2018,Patient
-545,Pediatric Specialties,2018,Patient
-8848,Specialties,2018,Patient
-12305,Pedatrics,2021,Patient
-4055,Womens Health,2021,Patient
-2311,Behaviorial Health,2022,Patient
-4234,Dental,2022,Patient
-11779,Pedatrics,2019,Patient
-4210,Dental,2020,Patient
-18224,Family Medicine,2020,Patient
-966,Pediatric Specialties,2020,Patient
-6645,Internal Medicine,2021,Patient
 10240,Pedatrics,2018,Patient
 10605,Family Medicine,2019,Patient
 11033,Pedatrics,2020,Patient
 3504,Womens Health,2020,Patient
 2964,Behaviorial Health,2021,Patient
 4855,Dental,2021,Patient
-2847,Womens Health,2022,Patient
-3692,Womens Health,2019,Patient
-10600,Specialties,2020,Patient
-14126,Family Medicine,2022,Patient
-11183,Specialties,2022,Patient
+3521,Womens Health,2022,Patient
+7636,Family Medicine,2018,Patient
+545,Pediatric Specialties,2018,Patient
+8848,Specialties,2018,Patient
+12305,Pedatrics,2021,Patient
+4056,Womens Health,2021,Patient
+2784,Behaviorial Health,2022,Patient
+5193,Dental,2022,Patient
 3443,Womens Health,2018,Patient
 10519,Specialties,2019,Patient
 20379,Family Medicine,2021,Patient
 11424,Specialties,2021,Patient
-962,Pediatric Specialties,2022,Patient
+1385,Pediatric Specialties,2022,Patient
+11779,Pedatrics,2019,Patient
+4210,Dental,2020,Patient
+18224,Family Medicine,2020,Patient
+966,Pediatric Specialties,2020,Patient
+6645,Internal Medicine,2021,Patient
+3692,Womens Health,2019,Patient
+10600,Specialties,2020,Patient
+17603,Family Medicine,2022,Patient
+13669,Specialties,2022,Patient
 1311,Pediatric Specialties,2019,Encounter
 1238,Pediatric Specialties,2021,Encounter
-12293,Internal Medicine,2022,Encounter
+14473,Internal Medicine,2022,Encounter
 23941,Internal Medicine,2018,Encounter
 16626,Behaviorial Health,2020,Encounter
-23509,Pedatrics,2022,Encounter
-13332,Womens Health,2019,Encounter
-24246,Specialties,2020,Encounter
-32673,Family Medicine,2022,Encounter
-23276,Specialties,2022,Encounter
+30856,Pedatrics,2022,Encounter
 8966,Behaviorial Health,2018,Encounter
 13594,Dental,2018,Encounter
 11494,Behaviorial Health,2019,Encounter
 16414,Dental,2019,Encounter
 23717,Internal Medicine,2019,Encounter
 24170,Internal Medicine,2020,Encounter
+13332,Womens Health,2019,Encounter
+24246,Specialties,2020,Encounter
+45040,Family Medicine,2022,Encounter
+31453,Specialties,2022,Encounter
+25682,Family Medicine,2018,Encounter
+758,Pediatric Specialties,2018,Encounter
+20603,Specialties,2018,Encounter
+32404,Pedatrics,2021,Encounter
+14121,Womens Health,2021,Encounter
+14870,Behaviorial Health,2022,Encounter
+14265,Dental,2022,Encounter
+12216,Womens Health,2018,Encounter
+24337,Specialties,2019,Encounter
+59389,Family Medicine,2021,Encounter
+27960,Specialties,2021,Encounter
+2024,Pediatric Specialties,2022,Encounter
 32967,Pedatrics,2019,Encounter
 9656,Dental,2020,Encounter
 48583,Family Medicine,2020,Encounter
@@ -66,16 +78,4 @@
 11476,Womens Health,2020,Encounter
 21299,Behaviorial Health,2021,Encounter
 14548,Dental,2021,Encounter
-8264,Womens Health,2022,Encounter
-25682,Family Medicine,2018,Encounter
-758,Pediatric Specialties,2018,Encounter
-20603,Specialties,2018,Encounter
-32404,Pedatrics,2021,Encounter
-14120,Womens Health,2021,Encounter
-11495,Behaviorial Health,2022,Encounter
-10536,Dental,2022,Encounter
-12216,Womens Health,2018,Encounter
-24337,Specialties,2019,Encounter
-59389,Family Medicine,2021,Encounter
-27960,Specialties,2021,Encounter
-1250,Pediatric Specialties,2022,Encounter
+10965,Womens Health,2022,Encounter
